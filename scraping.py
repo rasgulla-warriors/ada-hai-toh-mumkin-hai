@@ -10,7 +10,7 @@ async def main():
     page = await browser.newPage()
 
     # Step 2: Load the webpage
-    url = "https://www.indiavotes.com/lok-sabha/2019/all-states/17/0"
+    url = "https://www.indiavotes.com/lok-sabha/2004/all-states/14/0"
     await page.goto(url)
 
     # Wait for the page to load completely
@@ -43,7 +43,7 @@ async def main():
             if headers:
                 writer.writerow(headers)
             writer.writerows(data)
-        print(f"Table {index + 1} saved to table_{index + 1}.csv")
+        print(f"Table {index + 4} saved to table_{index + 1}.csv")
 
 
 # Run the main function
