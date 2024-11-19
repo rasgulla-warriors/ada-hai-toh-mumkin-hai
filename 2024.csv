@@ -1,4 +1,4 @@
-index,Constituency,Constituency No,Category,State,Winning Candidate,Winning Party,Electors,Votes,Turnout,MArgin,Percentage of Margin
+"PC Name","No","Type","State","Winning Candidate","Party","Electors","Votes","Turnout","Margin","Margin %"
 1,Adilabad,1,ST,Telangana,Godam Nagesh,Bharatiya Janta Party,"16,50,175","12,35,597",74.9 %,"90,652",7.3%
 2,Agra,18,SC,Uttar Pradesh [2000 Onwards],Prof S P Singh Baghel,Bharatiya Janta Party,"20,72,685","11,23,779",54.2 %,"2,71,294",24.1%
 3,Ahmadnagar,37,GEN,Maharashtra,Nilesh Dnyandev Lanke,Nationalist Congress Party – Sharadchandra Pawar,"19,81,866","13,25,477",66.9 %,"28,929",2.2%
